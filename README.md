@@ -1,5 +1,5 @@
 ---
-title: Ibug Face_detection
+title: iBUG Face Detection
 emoji: 💩
 colorFrom: red
 colorTo: gray
