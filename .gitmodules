@@ -1,0 +1,3 @@
+[submodule "face_detection"]
+	path = face_detection
+	url = https://github.com/ibug-group/face_detection
