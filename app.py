@@ -19,9 +19,8 @@ sys.path.insert(0, 'face_detection')
 
 from ibug.face_detection import RetinaFacePredictor, S3FDPredictor
 
-REPO_URL = 'https://github.com/ibug-group/face_detection'
 TITLE = 'ibug-group/face_detection'
-DESCRIPTION = f'This is a demo for {REPO_URL}.'
+DESCRIPTION = 'This is an unofficial demo for https://github.com/ibug-group/face_detection.'
 ARTICLE = None
 
 
