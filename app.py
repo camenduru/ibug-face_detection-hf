@@ -81,8 +81,6 @@ def detect(image: np.ndarray, model_name: str, face_score_threshold: float,
 
 
 def main():
-    gr.close_all()
-
     args = parse_args()
     device = torch.device(args.device)
 
