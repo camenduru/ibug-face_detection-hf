@@ -21,7 +21,7 @@ from ibug.face_detection import RetinaFacePredictor, S3FDPredictor
 
 TITLE = 'ibug-group/face_detection'
 DESCRIPTION = 'This is an unofficial demo for https://github.com/ibug-group/face_detection.'
-ARTICLE = None
+ARTICLE = '<center><img src="https://visitor-badge.glitch.me/badge?page_id=hysts.ibug-face_detection" alt="visitor badge"/></center>'
 
 
 def parse_args() -> argparse.Namespace:
